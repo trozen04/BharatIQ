@@ -1,0 +1,228 @@
+<!Doctype html>
+<html>
+<head>
+<title> PORTFOLIO </title>
+<link rel="stylesheet" href="style.css">
+</head>
+<style>
+
+.field1
+{
+display:block;
+height:1200px;
+width:800px;
+border-size: 2px;
+margin:auto;
+border: 0 none;
+}
+.up{
+background-color:#061159;
+height:150px;
+}
+
+img{
+margin-top:5px;
+margin-left:15px;
+height:140px;
+width:120px;
+float:left;
+}
+
+
+#text{
+font-size:40px;
+margin-left:100px;
+padding-top:30px;
+height:auto;
+width:auto;
+color:red;
+}
+
+#text2{
+padding-top:20px;
+margin-left:145px;
+color:red;
+}
+.contact{
+list-style:none;
+padding-top:6px;
+color:red;
+}
+.contact li{
+padding:3px;
+}
+
+.summary{
+padding-top:10px;
+}
+
+.down{
+background-color:#C0C0C0;
+height:1060px;
+}
+
+.field2
+{
+width: 300px; 
+height: auto; 
+float: left;
+border: 0 none;
+}
+
+.field4
+{
+width: 430px; 
+height: auto; 
+float: right;
+border: 0 none;
+}
+.vertical {
+            border-left: 2px solid black;
+           margin-top: 19px;
+            height: 800px;
+            position:absolute;
+            margin-left: 350px;
+        }
+</style>
+<body bgcolor="black">
+
+<fieldset class="field1">
+
+<div class="up">
+<img src="Image\trozen.jpg">
+<div style="width: 50.5%; height: auto; float: left; padding-top:20px;">
+<font align="center" id="text"> BHOOPENDRA </font><br><br>
+<font color="red" size="5px" id="text2"> Software Engineer </font>
+</div>
+<div style="width: 30%; height: auto; float: left; color:84EC92">
+<ul class="contact">
+<li> +91 8887692942 </li>
+<li> bvishwkarma461@gmail.com </li>
+<li> linkedin.com/in/trozen</li>
+<li> Greater Noida, UP</li>
+</div>
+</div>
+
+<div class="down">
+<br>
+<ul style="margin-left:10px;" class="summary">
+<font size="3px" color="red"><b> SUMMARY </b></font><br>
+<br>
+<li>My name is Bhoopendra. I am a motivated and enthusiastic MCA (Master of Computer Applications) student, and passionate about exploring the realms of technology and software development.</li><br>
+<li>With a strong inclination towards problem-solving and logical thinking, my goal is to leverage my academic knowledge and practical skills to contribute to the dynamic world of software development. I am eager to dive into real-world projects, collaborate with industry professionals, and stay updated with the latest technological advancements.</li>
+</ul>
+
+<fieldset class="field2">
+<hr color="black" width="90%">
+<div style="width: 90%; height: 200px; float: left; margin-left:10px;">
+<ul>
+<font color="red" size="3px"><b>TECHNICAL SKILLS</b></font><br><br>
+<li>Java Programming</li>
+<li>JavaScript</li>
+<li>C/C++ Programming</li>
+<li>Python</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>MySQL</li>
+</ul>
+</div>
+
+<hr color="black" width="90%">
+
+<div style="width: 90%; height: auto; float: left; color:84EC92; margin-left:10px; margin-top:none;">
+<ul>
+<font color="red" size="3px"><b>CERTIFICATIONS</b></font><br><br>
+<li>Master class on Python | Softpro India Computer Technologies (P) Ltd. </li><br>
+<li>Certificate for completion of C training | Spoken tutorial project, IIT Bombay | Score: 87.50%</li>
+<li>Attended Workshop On Artificial Intelligence</li>
+</ul>
+</div>
+
+<hr color="black" width="90%">
+
+<div style="width: 90%; height: 200px; float: left; color:84EC92; margin-left:10px;">
+<ul>
+<font color="red" size="3px"><b>POWER SKILLS</b></font><br><br>
+<li>Problem Solving</li>
+<li>Communication</li>
+<li>Creativity</li>
+<li>Time Management</li>
+<li>Research</li>
+<li>Critical Thinking</li>
+<li>Active Listening</li>
+</ul>
+</div>
+
+<hr color="black" width="90%">
+
+<div style="width: 90%; height: auto; float: left; color:84EC92; margin-left:10px; margin-top:none;">
+<ul>
+<font color="red" size="3px"><b>EXTRA CURRICULAR ACTIVITIES</b></font><br><br>
+<li>participated in coding competition</li><br>
+<li>Participated in Farewell 2023</li>
+</ul>
+</div>
+
+</fieldset>
+
+<div class="vertical"></div>
+
+<fieldset class="field4">
+<hr color="black" width="90%">
+<div style="width: 95%; height: auto; float: left; color:84EC92; margin-left:5px;">
+<ul>
+<font color="red" size="3px"><b>INTERNSHIP</b></font><br><br>
+<font>Software Engineering Intern (Java Programming)<br> Oasis-Infobyte | Remote Internship </font><br><br>
+<font>Tasks:</font>
+<br>
+<li>Number Guessing Game</li>
+<li>Online Examination</li>
+<br>
+<font>Web Developer Intern<br> BharatIQ | Remote Internship</font><br><br>
+<font>Tasks:</font>
+<li>Portfolio website</li>
+<li>Weather Web App</li>
+<li>Tic-Tac-Toe Game</li>
+</ul>
+</div>
+
+<hr color="black" width="90%">
+<div style=" width:95%; height:auto; float:left; margin-left:5px;">
+<ul>
+<font color="red" size="3px"><b>PROJECTS</b></font>
+<li>Online Examination Form using java</li>
+<li>Number Guessing Game using java</li>
+<li>Tic Tac Toe Game using HTML,CSS & JavaScript</li>
+<li>Weather Forecasting Web App HTML,CSS & JavaScript</li>
+<li>Portfolio Webpage HTML & CSS</li>
+</ul>
+</div>
+
+<hr color="black" width="90%">
+
+<div style="width:95%; height:auto; float:left; margin-left:5px;">
+<ul>
+<font color="red" size="3px"><b>ACHIEVEMENTS</b></font><br>
+<li>Student of the Semester which shows quality of punctuality, Self-Driven, motivated and a organized personality</li>
+<li>5 Star Rating in C Programming on HackerRanK</li>
+</ul>
+</div>
+
+<hr color="black" width="90%">
+<div style="width:95%; height:auto; float:left; margin-left:5px;">
+<ul>
+<font color="red" size="3px"><b>EDUCATION</b></font><br>
+<li>Masters of Computer Applications GNIOT | Greater Noida, IN</li>
+<li>Bachelor of Computer Applications MakhanLal Chaturvedi University|Bhopal, In Percentage: 79.75%</li>
+<li>Higher Secondary SSV Sarila | Sarila, IN Percentage: 65%</li>
+</ul>
+</div>
+
+</fieldset>
+</div>
+</fieldset>
+
+
+
+</body>
+</html>
